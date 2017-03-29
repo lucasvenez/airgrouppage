@@ -1,0 +1,16 @@
+﻿DATA - RESPONSÁVEL - ALTERAÇÕES
+13/09/2013 - Anderson - Versão inicial do website.
+17/09/2013 - Anderson - Adição das notícias na página principal e internamente; 
+						corrigido menu de navegação com erro de voltar no browser;
+01/10/2013 - Anderson - Alterações de acordo com reunião (26/09). Alterações no projeto, menu, notícias e fotos;
+03/12/2013 - Anderson - Alteração do nome do grupo para AIRGroup - ARTIFICIAL INTELLIGENCE AND ROBOTICS GROUP;
+08/04/2014 - Anderson - Adição nova integrante (Luisa);
+
+
+
+           - Denise - Criação de uma nova categoria em team (Visiting Researchers);
+	   - Denise - Adição de um novo componente (Matthias Rudolf Brust);
+15/04/2015 - Denise - Alterações na descrição do Vinícius e mudança de sua categoria no team;
+15/04/2015 - Denise - Criação de uma nova categoria em team (Graduates);
+
+03 e 04/2016 - Thaís - Atualização dos integrantes, eventos e pubicações

@@ -1,0 +1,45 @@
+<div class="container" ng-controller="PublicationsCtrl">
+	<div class="page-header">
+		<h1>Publications</h1>
+		<p class="lead">
+			<strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)
+		</p>
+	</div>
+
+	<h2>Journals</h2>
+	<br clear="all"/>
+
+	<div class="row col-sm-10 col-md-8"
+		ng-repeat="pub in publications | filter:{typeOrder:1} | orderBy:['-date']">
+		<p>
+			<strong>{{pub.date}}</strong><br />
+		</p>
+		<p>{{pub.people}}</p>
+		<p align="justify">{{pub.description}}</p>
+		<hr class="hr_section" />
+	</div>
+	<br clear="all"/>
+	<h2>Conferences</h2>
+	<br clear="all"/>
+	<div class="row col-sm-10 col-md-8"
+		ng-repeat="pub in publications | filter:{typeOrder:2} | orderBy:['-date']">
+		<p>
+			<strong>{{pub.date}}</strong><br />
+		</p>
+		<p>{{pub.people}}</p>
+		<p align="justify">{{pub.description}}</p>
+		<hr class="hr_section" />
+	</div>
+	<br clear="all"/>
+	<h2>Others</h2>
+	<br clear="all"/>
+	<div class="row col-sm-10 col-md-8"
+		ng-repeat="pub in publications | filter:{typeOrder:3} | orderBy:['-date']">
+		<p>
+			<strong>{{pub.date}}</strong><br />
+		</p>
+		<p>{{pub.people}}</p>
+		<p align="justify">{{pub.description}}</p>
+		<hr class="hr_section" />
+	</div>
+</div>

@@ -1,0 +1,149 @@
+@CHARSET "UTF-8";
+
+html,body {
+	height: 100%;
+	/* The html and body elements cannot have any padding or margin. */
+	position: relative; /* For scrollyspy */
+	padding-top: 25px; /* Account for fixed navbar */
+}
+
+.subhead {
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+
+.jumbotron {
+	position: relative;
+	padding: 40px 0;
+	color: #fff;
+	text-align: center;
+	text-shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 0 30px rgba(0, 0, 0, .075);
+	background: #020031;
+}
+
+/*
+ * Topography, yo!
+ *
+ * Apply the map background via base64 and relevant colors where we need 'em.
+ */
+.bs-header {
+	color: #999;
+	background-color: #333;
+}
+/* Page headers */
+.bs-header {
+	padding: 30px 15px 40px;
+	/* side padding builds on .container 15px, so 30px */
+	font-size: 16px;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, .15);
+}
+
+.bs-header h1 {
+	color: #fff;
+}
+
+.bs-header p {
+	font-weight: 300;
+	line-height: 1.5;
+}
+
+.bs-header .container {
+	position: relative;
+}
+
+@media screen and (min-width: 768px) {
+	.bs-header {
+		font-size: 21px;
+		text-align: left;
+	}
+	.bs-header h1 {
+		font-size: 60px;
+		line-height: 1;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	.bs-header h1,.bs-header p {
+		margin-right: 380px;
+	}
+}
+
+/* Footer
+-------------------------------------------------- */
+.footer p {
+	margin-bottom: 0;
+	color: #777;
+}
+
+.footer-links {
+	margin: 10px 0;
+}
+
+.footer-links li {
+	display: inline;
+	padding: 0 2px;
+}
+
+.footer-links li:first-child {
+	padding-left: 0;
+}
+
+/*--------------*/
+.container .row {
+	padding-bottom: 10px;
+}
+
+.home-col {
+	min-height: 120px;
+	display: inline-block;
+	vertical-align: middle !important;
+	float: none !important;
+}
+
+.highlight {
+	padding: 9px 14px;
+	margin-bottom: 14px;
+	background-color: #f7f7f9;
+	border: 1px solid #e1e1e8;
+	border-radius: 4px;
+}
+
+.tiny-img {
+	max-height: 75px;
+	max-width: 75px;
+}
+
+.small-img {
+	max-height: 150px;
+	max-width: 150px;
+}
+
+.big-img {
+	max-height: 350px;
+	max-width: 350px;
+}
+
+.huge-img {
+	max-height: 1024px;
+	max-width: 1024px;
+}
+
+.hr_section {
+	border-top: 1px dotted #aaa;
+	width: 3%;
+	text-align: left;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	clear: both;
+}
+
+a.thumbnail {
+	display: inline-block;
+}
+
+div.page-header h1 {
+	font-weight: bold;
+}

@@ -1,0 +1,56 @@
+[
+	{
+		"id":"0",
+	    "name":"Mecanismos adaptativos para detecção e gerenciamento de falhas em topologias de redes complexas",
+		"date":"2013",
+	    "people":"GHEDINI, C. G. Ribeiro, C.H.C.",
+	    "support":"",
+	    "kind":"Post-Doctoral",
+	    "description":"Redes complexas emergem, de forma natural ou como decisão de projeto,  em soluções computacionais. Em ambos os casos, em geral a topologia resulta em redes com alta eficiência na disseminação de informações  e robustas, tanto localmente quanto globalmente, para falhas em elementos aleatórios. Estas características são creditadas a distância média entre os elementos da rede ser relativamente curta em relação ao seu tamanho (diâmetro) e a um coeficiente de agrupamento alto -  a probabilidade de vizinhos estarem conectados entre si  é elevada.  A robustez a falhas significa que, apesar de elementos falharem ou se desconectarem da rede, a mesma consegue manter a sua dinâmica e as suas propriedades topológicas principais.  No entanto, estudos demonstraram que isto não se aplica a casos onde elementos considerados centrais falham (usualmente devido a ataques direcionados) de forma continuada ou concomitante. Nestes casos, a rede pode passar a um estado completamente distinto, comprometendo o seu funcionamento. Portanto, é  necessário o desenvolvimento de mecanismos para detectar configurações de topologia consideradas críticas, bem como promover ajustes que possam reverter tais estados.  Esta tarefa não é trivial, pois a topologia ´ é resultado da dinâmica dos elementos e/ou condições do ambiente/infraestrutura, os quais podem mudar no decorrer do tempo. Além disto, o tamanho dessas redes aliado a restrições operacionais, tornam proibitivos métodos baseados em informação global.  Desta forma, esta pesquisa tem como objetivo propor mecanismos de detecção de estados topológicos críticos e mitigação de seus efeitos, via algoritmos de detecção e adaptação de caráter local."
+	},
+	{
+		"id":"1",
+	    "name":"Solving Problems With Extended Reachability Goals Through Reinforcement Learning on Propositionally Constrained State Spaces",
+		"date":"2013",
+	    "people":"Araujo, A. V. Ribeiro, C.H.C.",
+	    "support":"",
+	    "kind":"Doctoral",
+	    "description":"We present here a new approach to discover the action policy for an environment under propositional constraints on states in MDP problems. The constraints are used by a strong probabilistic planning algorithm to reduce a state space whose transition probabilities are estimated by an action-learning reinforcement learning algorithm, thus simplifying the agent’s state space exploration and helping in the definition of the planning problem."
+	},
+	{
+		"id":"2",
+	    "name":"MODELO COMPUTACIONAL PARA SIMULAÇÃO DE EMPATIA ATRAVÉS DE COMPORTAMENTO COOPERATIVO",
+		"date":"2013",
+	    "people":"Elliot, F. M. Ribeiro, C.H.C.",
+	    "support":"",
+	    "kind":"Doctoral",
+	    "description":"O ampliar da nossa integração às tecnologias (também no sentido de mesclagem física) avulta reflexão sobre a inserção de moralidade em agentes artificiais que venham a interagir com humanos e animais. Há dilemas na simulação de comportamento moral: além da complexidade do projeto, assumem-se premissas filosóficas no campo ético.  A pesquisa aqui proposta surgiu de modificações sobre uma  arquitetura inspirada biologicamente e desenvolvida para  ambientes com um único agente.   A arquitetura resultante, Multi-A2, é adaptável a diferentes modelos e foi testada em tarefas multi-agente   caracterizadas por jogos estocásticos soma-geral, tendo apresentado desempenho  relevante no que se refere a comportamento cooperativo. Para isso, são  utilizadas informações sensoriais, as quais são transformadas em  variáveis homeostáticas, assim como os sistemas cognitivo e de aprendizado.  A partir da simulação de empatia (capacidade de experienciar emoções que  correspondam às do outro),  pretende-se que um agente sob a arquitetura Multi-A$2$ esteja apto a  cooperar com colegas em algumas das situações em que algoritmos de  aprendizado multi-agente tradicionais não o fazem.  Os resultados obtidos são a primeira conquista em direção a  um agente artificial que coopere em resposta a um modelo computacional de moralidade que seja biologicamente plausível e inspirado em uma leitura de empatia."
+	},
+	{
+		"id":"3",
+	    "name":"Um Método Criptográfico Baseado em Conceitos de Redes Complexas e Autômatos Celulares",
+		"date":"2013",
+	    "people":"MACEDO, H. B. Ribeiro, C.H.C.",
+	    "support":"",
+	    "kind":"Doctoral",
+	    "description":"O autômato celular tradicional, com estrutura de conexão regular, necessita que vários passos de evolução sejam executados para uma perturbação inicial se propagar por todo o seu reticulado. Quanto maior a quantidade de evoluções realizadas, maior a quantidade de recursos computacionais aplicados na resolução de um problema. Nesse sentido foi proposto como tema de doutorado estudar variações de autômatos celulares que empregam conceitos de redes complexas para permitir que uma perturbação se propague de forma mais eficiente. Experimentos iniciais indicam que, dependendo da estrutura de rede construída, é possível obter resultados equivalentes aos alcançados pelo autômato celular padrão, reduzindo em até seis vezes a quantidade de evoluções realizadas. Uma das principais aplicações dos estudos que estão sendo realizados na pesquisa diz respeito a construção de sistemas criptográficos. Além disso, é possível que outros sistemas que façam uso de autômatos celulares também possam se beneficiar dos resultados do trabalho."
+	},
+	{
+		"id":"4",
+	    "name":"Community Detection based on Linguistic Dynamics",
+		"date":"2013",
+	    "people":"Unzun, T. Ribeiro, C.H.C.",
+	    "support":"",
+	    "kind":"Doctoral",
+	    "description":"In this work a Community Detection Algorithm is developed using a derivation of a communication dynamics model, the Naming Game. The aim of the work is to show how the interactions between agents can reveal the community structure of the network."
+	},
+	{
+		"id":"5",
+	    "name":"Análise dos Efeitos de Perturbações na Manutenção da Conectividade Global de um Sistema de Robôs",
+		"date":"2013",
+	    "people":"Battagello, V. A. Ribeiro, C.H.C.",
+	    "support":"",
+	    "kind":"Master",
+	    "description":"O trabalho consistirá na análise do impacto de perturbações (atrasos, ruídos ou falhas) em uma estratégia de controle completamente descentralizada para manutenção da conectividade global do grafo de comunicação para uma rede ad-hoc de agentes móveis assistida por um Backbone Central."
+	}
+]

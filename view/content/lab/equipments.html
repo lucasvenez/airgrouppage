@@ -1,0 +1,32 @@
+<div class="container" ng-controller="EquipmentsCtrl">
+	<div class="page-header">
+		<h1>Equipments</h1>
+		<p class="lead"><strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)</p>
+	</div>
+
+	<div class="row" ng-repeat="equip in equips">
+		<div class="col-sm-3 col-md-2">
+			<a href="#/photo?photoUrl=img/equipments/{{equip.photoUrl}}&title={{equip.name}}"
+				class="thumbnail" ng-show="equip.photoUrl">
+				<img ng-src="img/equipments/{{equip.photoUrl}}" alt="{{equip.name}}" class="small-img">
+			</a>
+			<img ng-hide="equip.photoUrl" src="http://placehold.it/150&text=No+Photo"
+				class="small-img img-thumbnail">
+		</div>
+
+		<div class="col-sm-10 col-md-8">
+			<blockquote>
+				<p>{{equip.name}}</p>
+				<small>{{equip.type}}</small>
+			</blockquote>
+			<p align="justify">
+				<strong>Description:</strong> {{equip.description}}
+			</p>
+			<p>
+				<strong>Quantity:</strong> {{equip.quantity}}<br /> <strong>Manufacturer:</strong>
+				{{equip.manufacturer}}<br /> <strong>Features:</strong> {{equip.features}}<br />
+			</p>
+		</div>
+		<hr class="hr_section" />
+	</div>
+</div>

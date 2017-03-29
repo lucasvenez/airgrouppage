@@ -1,0 +1,18 @@
+<div class="col-sm-3 col-md-2 col-lg-1">
+	<a href="#/news/details/{{notice.id}}" class="thumbnail">
+		<img ng-src="img/news/thumbs/{{notice.photoUrl}}" alt="{{notice.title}}" class="tiny-img"
+			ng-show="notice.photoUrl" />
+		<img src="http://placehold.it/75&text=No+Photo" class="tiny-img" ng-hide="notice.photoUrl">
+	</a>
+</div>
+<div class="col-sm-10 col-md-8 col-lg-4">
+	<p>
+		<small>{{notice.date | date:"MMM, yyyy"}}</small>
+	</p>
+	<h4>
+		<a href="#/news/details/{{notice.id}}">
+			<strong>{{notice.title}}</strong>
+		</a>
+	</h4>
+</div>
+<hr class="hr_section" />

@@ -1,0 +1,8 @@
+<div class="container" ng-controller="NewsCtrl">
+	<div class="page-header">
+		<h1>News</h1>
+		<p class="lead"><strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)</p>
+	</div>
+	<div class="row" ng-repeat="notice in news" ng-include="'view/content/news/news_small.html'">
+	</div>
+</div>

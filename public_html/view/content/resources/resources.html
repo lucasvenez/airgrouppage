@@ -1,0 +1,15 @@
+<div class="container" ng-controller="ResourcesCtrl">
+	<div class="page-header">
+		<h1>Resources</h1>
+		<p class="lead"><strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)</p>
+	</div>
+
+	<div class="row col-sm-10 col-md-8">
+		<ul>
+			<li ng-repeat="resource in resources  | orderBy:'-date'"><a target="_blank"
+				href="data/resources/{{resource.href}}"
+				alt="{{resource.description}}">{{resource.text}}</a>:
+				{{resource.description}}</li>
+		</ul>
+	</div>
+</div>

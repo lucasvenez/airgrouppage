@@ -1,0 +1,237 @@
+﻿[
+	{
+		"id":"0",
+		"date":"2011",
+		"type": "journal",
+		"typeOrder": "1",
+	    "description":"Ghedini, Cinara G. ; RIBEIRO, C. H. C. Rethinking failure and attack tolerance assessment in complex networks. Physica. A (Print) , v. 1, p. 1, 2011."
+	},
+	{
+		"id":"1",
+		"date":"2013",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"MACEDO, H. B. ; OLIVEIRA, Gina Maira Barbosa de ; RIBEIRO, C. H. C. Dynamic behaviour of chaotic cellular automata: a comparative entropy analysis of regular lattices and small-world structures. In: IEEE International Conference on Systems, Man and Cybernetics, 2013, Manchester. Proceedings of the IEEE SMC 2013."
+	},
+	{
+		"id":"2",
+		"date":"2013",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"ARAÚJO, A. V. ; RIBEIRO, C. H. C. Solving Problems With Extended Reachability Goals Through Reinforcement Learning on Propositionally Constrained State Spaces. In: IEEE International Conference On Systems, Man, And Cybernetics, 2013, Manchester, Inglaterra. Proceedings of IEEE International Conference On Systems, Man, And Cybernetics, 2013."
+	},
+	{
+		"id":"3",
+		"date":"2013",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"COLOMBINI, Esther Luna ; RIBEIRO, C. H. C. Top-down and Bottom-up Feature Combination for Multi-sensor Attentive Robots. In: 6th International Symposium on Attention in Cognitive Systems - ISACS/IJCAI, 2013, Beijing. Proceedings of the 6th International Symposium on Attention in Cognitive Systems - ISACS/IJCAI, 2013."
+	},	
+	{
+		"id":"4",
+		"date":"2013",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"ELLIOT, F. M. ; RIBEIRO, C. H. C. A Biologically Inspired Architecture for Multiagent Games. In: 1st BRICS Countries Congress (BRICS-CCI), 2013, Porto de Galinhas. Proceedings of the 1st BRICS Countries Congress (BRICS-CCI) and and 11th Brazilian Congress (CBIC) on Computational Intelligence, 2013."
+	},	
+	{
+		"id":"5",
+		"date":"2012",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"COLOMBINI, Esther Luna ; RIBEIRO, C. H. C. An Attentive Multi-sensor Based System for Mobile Robotics. In: IEEE SMC 2012 - 2012 IEEE International Conference on Systems, Man, and Cybernetics, 2012, Seul. Procs. of the 2012 IEEE International Conference on Systems, Man, and Cybernetics, 2012."
+	},	
+	{
+		"id":"6",
+		"date":"2011",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"UZUN, T. G. ; SILVA FILHO, R. J. ; BRUST, Matthias R. ; RIBEIRO, C. H. C. Influence of Shared Memory and Network Topology in the Consensus Dynamics of a Naming Game. In: SEMISH - XXXVIII Seminário Integrado de Software e Hardware, 2011, Natal. Anais do XXXI Congresso da Sociedade Brasileira de Computação, 2011."
+	},	
+	{
+		"id":"7",
+		"date":"2009",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"GHEDINI, C. G. ; RIBEIRO, C. H. C. Detecting Global Efficiency in Complex Networks Using Local Measurements and Neighborhood Information. In: CSBC 2009 - WPerformance 2009 - VIII Workshop em Desempenho de Sistemas Computacionais e de Comunicação WPerformance, 2009, Bento Gonçalves. Anais do WPerformance 2009 - VIII Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2009"
+	},	
+	{
+		"id":"8",
+		"date":"2009",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"ELLIOT, F. M. ; RIBEIRO, C. H. C. Autonomous behaviour selection based on computational simulation of emotions and hormonal processes. In: IX Simpósio Brasileiro de Automação Inteligente -  SBAI 2009, 2009, Brasília. Anais do IX Simpósio Brasileiro de Automação Inteligente - SBAI 2009, 2009."
+	},	
+	{
+		"id":"9",
+		"date":"2009",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"GHEDINI, C. G. ; RIBEIRO, C. H. C. Framework for Vulnerability Management in Complex Networks. In: The Workshop on Reliable Networks Design and Modeling - RNDM 2009, 20 09, São Petersburgo. Procs of the Workshop on Reliable Networks Design and Modeling, 2009."
+	},
+	{
+		"id":"10",
+		"date":"2011",
+		"type": "graduation",
+		"typeOrder": "3",
+	    "description":"Battagello, V. A. Ribeiro, C.H.C. Modelo de Naming Game com Propagação de Termos Baseada em Reputações. Trabalho de Graduação - Divisão de Ciência da Computação - Instituto Tecnológico de Aeronáutica, 2011."
+	},
+	
+	{
+		"id":"12",
+		"date":"2014",
+		"type": "journal",
+		"typeOrder": "1",
+	    "description":"GHEDINI, C. G. ; RIBEIRO, C. H. C. Improving Resilience of Complex Networks Facing Attacks and Failures Through Adaptive Mechanisms. Advances in Complex Systems, v. 17, p. 1450009-1-1450009-25, 2014."
+	},
+	{
+		"id":"13",
+		"date":"2014",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"ARAUJO, A. V. ; RIBEIRO, C. H. C. Sharing Information on Extended Reachability Goals Over Propositionally Constrained Multi-Agent State Spaces. In: 2014 IEEE World Congress on Computational Intelligence, 2014, Beijing. Proceedings of the 2014 IEEE World Congress on Computational Intelligence, 2014. v. 1."
+	},
+	{
+		"id":"14",
+		"date":"2014",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"MACEDO, H. B. ; RIBEIRO, C. H. C. Dynamic behaviour of network cellular automata with non-chaotic standard rules.In: 2nd World conference on Complex Systems, 2014, Agadir. Proceedings of the 2nd World conference on Complex Systems, 2014."
+	},
+	{
+		"id":"15",
+		"date":"2014",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"UZUN, T. G. ; RIBEIRO, C. H. C. Community Detection based on a Naming Game. In: 21st European Eonference on Artificial Intelligence - ECAI, 2014, Praga. Procs of the 21st European Eonference on Artificial Intelligence - ECAI 2014, 2014."
+	},
+	{
+		"id":"16",
+		"date":"2015",
+		"type": "journal",
+		"typeOrder": "1",
+	    "description":"FERREIRA, L. A. ; RIBEIRO, C. H. C. ; Bianchi, Reinaldo A. C. . Heuristically accelerated reinforcement learning modularization for multi-agent multi-objective problems. Applied Intelligence (Boston), 2014."
+	},
+	{
+		"id":"17",
+		"date":"2015",
+		"type": "journal",
+		"typeOrder": "1",
+	    "description":"MACÊDO, HEVERTON B. ; OLIVEIRA, GINA M. B. ; RIBEIRO, CARLOS H. C. . A Comparative Study between the Dynamic Behaviours of Standard Cellular Automata and Network Cellular Automata Applied to Cryptography. International Journal of Intelligent Systems (Print), 2015."
+	},
+	{
+		"id":"18",
+		"date":"2015",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"ALMEIDA, L. A. ; RIBEIRO, C. H. C. . Soft-UCT: An algorithm for probabilistic planning based on a generalized mean operator. In: 2nd Latin American Congress on Computational Intelligence - LA-CCI, 2015, Curitiba. Procs. of the 2nd Latin American Congress on Computational Intelligence - LA-CCI, 2015."
+	},
+	{
+		"id":"19",
+		"date":"2015",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"GHEDINI, C. G. ; SECCHI, C. ; RIBEIRO, C. H. C. ; SABATTINI, L. . Improving robustness in multi-robot networks. In: 11th IFAC Symposium on Robot Control, 2015, Salvador. Procs of the 11th IFAC Symposium on Robot Control - SYROCO 2015, 2015."
+	},
+	{
+		"id":"20",
+		"date":"2015",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"BATTAGELLO, V. A. ; RIBEIRO, C. H. C. . Analysis of the Effects of Communication Delay in the Distributed Global Connectivity Maintenance of a Multi-robot System. In: 6th Workshop on Complex Networks CompleNet 2015, 2015, New York. Complex Networks VI - Proceedings of the 6th Workshop on Complex Networks CompleNet 2015. Heidelberg: Springer, 2015."
+	},
+	{
+		"id":"21",
+		"date":"2015",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"UZUN, T. G. ; RIBEIRO, C. H. C. . A Naming Game with Secondary Memory for Community Detection. In: 9-th International Conference on Complex, Intelligent, and Software Intensive Systems - CISIS, 2015, Blumenau. Procs of the 9-th International Conference on Complex, Intelligent, and Software Intensive Systems - CISIS, 2015."
+	},
+	{
+		"id":"22",
+		"date":"2015",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"ELLIOT, F. M. ; RIBEIRO, C. H. C. . Emergence of Cooperation through Simulation of Moral Behavior. In: 10th International Conference on Hybrid Artificial Intelligence Systems - HAIS, 2015, Bilbao. Procs. of the 10th International Conference on Hybrid Artificial Intelligence Systems, 2015."
+	},
+	{
+		"id":"23",
+		"date":"2015",
+		"type": "proceedings",
+		"typeOrder": "2",
+	    "description":"HITA, Cinara Guellner Ghedin ; RIBEIRO, C. H. C. . Using community structure information to improve complex networks robustness. In: The Fifth International Conference on Performance, Safety and Robustness in Complex Systems and Applications - PESARO 2015, 2015, Barcelona. Procs of The Fifth International Conference on Performance, Safety and Robustness in Complex Systems and Applications, 2015."
+	},
+	{
+		"id": "24",
+		"date": "2016",
+		"type": "journal",
+		"typeOrder": "1",
+		"description": "COLOMBINI, Esther Luna ; SIMOES, A. S. ; RIBEIRO, C. H. C. . An Attentional Model for Autonomous Mobile Robots. IEEE Systems Journal, v. 1, p. 1-12, 2016." 
+	},
+	{
+		"id": "25",
+		"date": "2016",
+		"type": "journal",
+		"typeOrder": "1",
+		"description": "SIMOES, A. S. ; COLOMBINI, Esther Luna ; RIBEIRO, C. H. C. . CONAIM: A conscious attention-based integrated model for human-like robots. IEEE Systems Journal, v. PP, p. 1-12, 2016."
+	},
+	{
+		"id": "26",
+		"date": "2017",
+		"type": "proceedings",
+		"typeOrder": "2",
+		"description": "UZUN, T. G. ; RIBEIRO, C. H. C. . Adaptation of an opinion interactions model for overlapping community detection. In: 8th Conference on Complex Networks - Complenet 2017, 2017, Dubrovnik. Procs. of the 8th Conference on Complex Networks - Complenet 2017, 2017. v. 1. p. 1-5."
+	},
+	{
+		"id": "27",
+		"date": "2017",
+		"type": "proceedings",
+		"typeOrder": "2",
+		"description": "BORGES, N. P. ; GHEDINI, C. G. ; RIBEIRO, C. H. C. . A local communication model for improving stealth in collaborative UAV networks. In: 8o. Computer on the Beach, 2017, Florianópolis. Anais do 8o. Computer on the Beach. Porto Alegre: Sociedade Brasileira de Computação, 2017. v. 1. p. 1-6."
+	},
+	{
+		"id": "28",
+		"date": "2016",
+		"type": "proceedings",
+		"typeOrder": "2",
+		"description": "UZUN, T. G. ; RIBEIRO, C. H. C. . Incorporation of social features in the Naming Game for Community Detection. In: 7th Workshop on Complex Networks - Complenet 2016, 2016, Dijon. Procs. of the 7th Workshop on Complex Networks - Complenet 2016, 2016. v. 1. p. 1-2."
+	},
+	{
+		"id": "29",
+		"date": "2016",
+		"type": "proceedings",
+		"typeOrder": "2",
+		"description": "GHEDINI, C. G. ; RIBEIRO, C. H. C. ; SABATTINI, L. . Improving the fault tolerance of multi-robot networks through a combined control law strategy. In: RNDM 2016 - 8th International Workshop on Resilient Networks Design and Modeling, 2016, Halmstad. Procs. of the 8th International Workshop on Resilient Networks Design and Modeling, 2016. v. 1. p. 209-215."
+	},
+	{
+		"id": "30",
+		"date": "2016",
+		"type": "proceedings",
+		"typeOrder": "2",
+		"description": "PAULA NETO, F. M. ; MAXIMO, M. R. O. A. ; RIBEIRO, C. H. C. . Keyframe Movement Optimization for Simulated Humanoid Robot using a Parallel Optimization Framework. In: 4th Brazilian Symposium on Robotics and 13rd Latin American Robotics Symposium., 2016, Recife. Procs. of SBR/LARS?2016, 2016. v. 1. p. 1-5."
+	},
+	{
+		"id": "31",
+		"date": "2016",
+		"type": "proceedings",
+		"typeOrder": "2",
+		"description": "MAXIMO, M. R. O. A. ; RIBEIRO, C. H. C. ; AFONSO, R. J. M. . Mixed-Integer Programming for Automatic Walking Step Duration. In: 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), 2016, Daejeon. Procs of the 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2016), 2016. v. 1. p. 1-6."
+	},
+	{
+		"id": "32",
+		"date": "2016",
+		"type": "proceedings",
+		"typeOrder": "2",
+		"description": "MAXIMO, M. R. O. A. ; RIBEIRO, C. H. C. . Ominidirectional ZMP-based humanoid walking engine. In: XXI Congresso Brasileiro de Automática - CBA, 2016, Vitória. Anais do XXI Congresso Brasileiro de Automática, 2016. v. 1. p. 1-6."
+	},
+	{
+		"id": "33",
+		"date": "2016",
+		"type": "proceedings",
+		"typeOrder": "2",
+		"description": "GHEDINI, C. G. ; RIBEIRO, C. H. C. ; SABATTINI, L. . A Decentralized Control Strategy for Resilient Connectivity Maintenance in Multi-Robot Systems Subject to Failures. In: 13th International Symposium on Distributed Autonomous Robotic Systems, 2016, Londres. Procs. of the 13th International Symposium on Distributed Autonomous Robotic Systems, 2016. v. 1. p. 1-6."
+	},
+	{
+		"description": "ABIUZI, L. B. ; CESAR, C. A. C. ; RIBEIRO, C. H. C. . A-LMST: An adaptive LMST local topology control algorithm for mobile ad hoc networks. In: 41st Annual IEEE Conference on Local Computer Networks, 2016, Dubai. Proceesings of the 41st Annual IEEE Conference on Local Computer Networks, 2016."
+	}		
+]

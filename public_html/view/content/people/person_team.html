@@ -1,0 +1,15 @@
+<div class="col-sm-3 col-md-2">
+	<a href="#/people/{{person.id}}" class="thumbnail" style="display: inline-block"> <img
+		ng-src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id={{person.lattesPhotoId}}"
+		alt="{{person.name}}" class="small-img">
+	</a>
+</div>
+<div class="col-sm-6 col-md-4">
+	<blockquote>
+		<p>
+			<a href="#/people/{{person.id}}">{{person.name}}</a>
+		</p>
+		<small><cite title="Role">{{person.role}} <i class="glyphicon glyphicon-user"></i>
+		</cite></small>
+	</blockquote>
+</div>

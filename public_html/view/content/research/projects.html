@@ -1,0 +1,21 @@
+<div class="container" ng-controller="ProjectsCtrl">
+	<div class="page-header">
+		<h1>Projects</h1>
+		<p class="lead">
+			<strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group
+			(ITA)
+		</p>
+	</div>
+
+	<div class="row col-sm-10 col-md-8" ng-repeat="project in projects | orderBy:'-date'">
+		<h3 style="text-align: justify;">{{project.name}}</h3>
+		<p>{{project.people}} ({{project.date}})</p>
+		<p>
+			<strong>Kind:</strong> {{project.kind}}
+			<br>
+			<span ng-show="project.support"><strong>Support:</strong> {{project.support}}</span>
+		</p>
+		<p align="justify">{{project.description}}</p>
+		<hr class="hr_section" />
+	</div>
+</div>

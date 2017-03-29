@@ -1,0 +1,14 @@
+<div class="container" ng-controller="PhotoCtrl">
+	<div class="page-header">
+		<h1 ng-show="title">{{title}}</h1>
+		<h1 ng-hide="title">Photo</h1>
+		<p class="lead"><strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)</p>
+	</div>
+
+	<div class="row">
+		<div class="col-sm-12 col-md-12">
+			<img class="thumbnail huge-img" ng-src="{{photoUrl}}" alt="AIRGroup Photo">
+		</div>
+	</div>
+	<br>
+</div>

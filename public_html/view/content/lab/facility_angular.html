@@ -1,0 +1,15 @@
+<div class="container" ng-controller="PhotoCtrl"
+	ng-init="init_base_dir('img/lab/')">
+	<div class="page-header">
+		<h1>
+			<strong>AIR</strong>Group Lab
+		</h1>
+		<p class="lead"><strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)</p>
+	</div>
+	{{photos_max}}
+	<div class="col-sm-6 col-md-4" ng-repeat="i in [] | range:photos_max">
+		<a href="#photo/{{i+1}}" class="thumbnail"> <img
+			src="img/lab/lab_{{i+1}}.jpg" alt="AIRGroup Lab Photo">
+		</a>
+	</div>
+</div>

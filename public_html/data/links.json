@@ -1,0 +1,14 @@
+[
+	{
+		"id":"1",
+	    "text":"ITA",
+	    "description":"Instituto Tecnológico de Aeronáutica (ITA)",
+	    "href":"http://www.ita.br"
+	},
+	{
+		"id":"2",
+	    "text":"IEEE",
+	    "description":"IEEE Explore Digital Library",
+	    "href":"http://ieeexplore.ieee.org/Xplore/home.jsp"
+	}
+]

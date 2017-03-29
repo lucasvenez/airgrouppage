@@ -1,0 +1,98 @@
+﻿[
+	{
+		"id":"1",
+		"year":"2016",
+		"month":"02",
+		"title":"CompleNet 2016",
+	    	"photoUrl":"complenet2016.png",
+	    	"text":"WORKSHOP IN COMPLEX NETWORKS - COMPLENET 2016",
+		"text2":"AIRGroup had one published article this year. CompleNet took place at Dijon, in the region of Bourgogne, in France, in march. More informations on",
+		"linkUrl":"http://www.complenet.org/",
+		"linkText":"CompleNet 2016"
+
+	},
+
+	{
+		"id":"2",
+		"year":"2016",
+		"month":"08",
+	    "title":"Call for papers - CCS 2016 - Amsterdan (Deadline: May 2016)",
+	    "photoUrl":"ccs2016.png",
+	    "text":"CALL FOR PAPERS - Conference on Complex Networks - CCS 2016",
+		"text2":"DATA LIMITE PARA SUBMISSÃO: 15 DE MAIO. Para mais informações acesse o site",
+		"linkUrl":"http://www.ccs2016.org/",
+		"linkText":"CCS 2016"
+	},
+
+	{
+		"id":"3",
+		"year":"2017",
+		"month":"6",
+	    "title":"Call for papers - IFAC 2017 - Toulouse (Deadline: Oct 2016)",
+	    "photoUrl":"ifac2017.png",
+	    "text":"CALL FOR PAPERS - 20th World Congress of the International Federation of Automatic Control",
+		"text2":"DATA LIMITE PARA SUBMISSÃO: 31 DE OUTUBRO DE 2016. Para mais informações acesse o site",
+		"linkUrl":"http://www.ifac2017.org/",
+		"linkText":"IFAC 2017"
+	},
+
+	{
+		"id":"4",
+		"year":"2016",
+		"month":"06",
+	    "title":"CISIS 2016 - Fukuoka",
+	    "photoUrl":"cisis2016.png",
+	    "text":"10th International Conference on Complex, Intelligent and Software Intensive Systems",
+		"text2":"Para mais informações acesse o site",
+		"linkUrl":"http://voyager.ce.fit.ac.jp/conf/cisis/2016/",
+		"linkText":"CISIS 2016"
+	},
+
+{
+		"id":"5",
+		"year":"2016",
+		"month":"06",
+	    "title":"Call for papers - BraSNAM - Porto Alegre ",
+	    "photoUrl":"brasnam2016.png",
+	    "text":"V Brazilian Workshop on Social Network Analysis and Mining",
+		"text2":"Para mais informações acesse o site",
+		"linkUrl":"https://sites.google.com/site/brasnam2016/",
+		"linkText":"BRASNAM 2016"
+	},
+{
+		"id":"6",
+		"year":"2016",
+		"month":"06",
+	    "title":"ALIFE 2016 - Cancun",
+	    "photoUrl":"alife2016.png",
+	    "text":"The Fifteenth International Conference on the Synthesis and Simulation of Living Systems",
+		"text2":"Para mais informações acesse o site",
+		"linkUrl":"http://turing.iimas.unam.mx/~weam/ALifeXV/",
+		"linkText":"ALIFE 2016"
+	},
+
+{
+		"id":"7",
+		"year":"2016",
+		"month":"05",
+	    "title":"CALL FOR PAPERS - Summer Solstice 2016 - Aveiro (Deadline: April 20th)",
+	    "photoUrl":"summer.png",
+	    "text":"CALL FOR PAPERS - 8th International Conference on Discrete Models of Complex Systems",
+		"text2":"In aveiro - Portugal. Deadline NOW (april 20th). Check out the great invited speakers in",
+		"linkUrl":"https://www.ezconferences.com/c/summersolstice2016#sthash.uUQBtY04.dpuf/",
+		"linkText":"Summer Solstice 2016"
+	},
+
+{
+		"id":"8",
+		"year":"2016",
+		"month":"10",
+	    "title":"CALL FOR PAPERS - Complex Networks 2016 - Milan (Deadline: September)",
+	    "photoUrl":"cnapplications.jpg",
+	    "text":"The 5th International Workshop on Complex Networks and their applications",
+		"text2":"Call for papers - Deadline september 5th. For more informations, visit the site",
+		"linkUrl":"http://www.complexnetworks.org/",
+		"linkText":"Complex Networks 2016"
+	}
+
+]

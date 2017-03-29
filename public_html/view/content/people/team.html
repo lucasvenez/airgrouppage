@@ -1,0 +1,55 @@
+<div class="container" ng-controller="PeopleCtrl">
+	<div class="page-header">
+		<h1>Team</h1>
+		<p class="lead"><strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)</p>
+	</div>
+
+	<div class="row">
+		<h3>Professors</h3>
+	</div>
+
+	<div class="row" ng-repeat="person in people | filter:{position:1} | orderBy:'name'">
+		<div ng-include="'view/content/people/person_team.html'"></div>
+	</div>
+
+	<div class="row">
+		<h3>Postdoctoral Researchers </h3>
+	</div>
+
+	<div class="row" ng-repeat="person in people | filter:{position:3} | orderBy:'name'">
+		<div ng-include="'view/content/people/person_team.html'"></div>
+	</div>
+	
+	<div class="row">
+		<h3>Doctoral Students</h3>
+	</div>
+
+	<div class="row" ng-repeat="person in people | filter:{position:4} | orderBy:'name'">
+		<div ng-include="'view/content/people/person_team.html'"></div>
+	</div>
+
+	<div class="row">
+		<h3>Master Students</h3>
+	</div>
+
+	<div class="row" ng-repeat="person in people | filter:{position:5} | orderBy:'name'">
+		<div ng-include="'view/content/people/person_team.html'"></div>
+	</div>
+
+	<div class="row">
+		<h3>Graduate Students</h3>
+	</div>
+
+	<div class="row" ng-repeat="person in people | filter:{position:7} | orderBy:'name'">
+		<div ng-include="'view/content/people/person_team.html'"></div>
+	</div>
+	
+	
+	<div class="row">
+		<h3>Former Participants</h3>
+	</div>
+
+	<div class="row" ng-repeat="person in people | filter:{position:6} | orderBy:'name'">
+		<div ng-include="'view/content/people/person_team.html'"></div>
+	</div>
+</div>

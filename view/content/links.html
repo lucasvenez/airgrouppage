@@ -1,0 +1,13 @@
+<div class="container" ng-controller="LinksCtrl">
+	<div class="page-header">
+		<h1>Important Links</h1>
+		<p class="lead"><strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)</p>
+	</div>
+
+	<div class="row col-sm-10 col-md-8">
+		<ul>
+			<li ng-repeat="link in links"><a target="_blank" href="{{link.href}}">{{link.text}}</a>:
+				{{link.description}}</li>
+		</ul>
+	</div>
+</div>

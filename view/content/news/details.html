@@ -1,0 +1,29 @@
+<div class="container" ng-controller="NewsCtrl">
+	<div class="page-header">
+		<h1>{{notice.title}}</h1>
+		<p class="lead"><strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group (ITA)</p>
+	</div>
+	<div class="row">
+		<div class="col-lg-4">
+			<a href="#/photo?photoUrl=img/news/{{notice.photoUrl}}&title={{notice.title}}" class="thumbnail"
+				ng-show="notice.photoUrl">
+				<img ng-src="img/news/{{notice.photoUrl}}" alt="{{notice.title}}" class="big-img" />
+			</a>
+			<img src="http://placehold.it/350&text=No+Photo" class="img-thumbnail big-img"
+				ng-hide="notice.photoUrl">
+		</div>
+		<div class="col-lg-6">
+			<h4>
+				<strong>{{notice.date | date:"MMM, yyyy"}}</strong>
+			</h4>
+			<p>{{notice.text}}</p>
+
+			<p>{{notice.text2}}</p>
+
+			<a href="{{notice.linkUrl}}"
+				ng-show="notice.linkUrl">
+				{{notice.linkText}}
+			</a>
+		</div>
+	</div>
+</div>

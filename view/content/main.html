@@ -1,0 +1,43 @@
+<div class="bs-header" id="overview">
+	<div class="container">
+		<h1>
+			<strong>AIR</strong>Group
+		</h1>
+		<p class="lead">
+			<strong>A</strong>rtificial <strong>I</strong>ntelligence and <strong>R</strong>obotics Group
+			(ITA)
+		</p>
+	</div>
+</div>
+<br>
+<div class="container" ng-controller="NewsCtrl">
+	<div class="row">
+		<h3>Latest News</h3>
+	</div>
+	<div ng-repeat="notice in recent_news" class="row" ng-include="'view/content/news/news_small.html'">
+	</div>
+	<hr />
+	<div class="row">
+		<div class="col-lg-4">
+			<h2>Team</h2>
+			<p class="home-col">See who is involved with the research group.</p>
+			<p>
+				<a class="btn btn-default" href="#/team">View details »</a>
+			</p>
+		</div>
+		<div class="col-lg-4">
+			<h2>Publications</h2>
+			<p class="home-col">Find out what are the latest publications of the research group.</p>
+			<p>
+				<a class="btn btn-default" href="#/research/publications">View details »</a>
+			</p>
+		</div>
+		<div class="col-lg-4">
+			<h2>Equipments</h2>
+			<p class="home-col">Check out the equipments that are involved with our research areas.</p>
+			<p>
+				<a class="btn btn-default" href="#/lab/equipments">View details »</a>
+			</p>
+		</div>
+	</div>
+</div>

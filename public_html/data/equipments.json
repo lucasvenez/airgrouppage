@@ -1,0 +1,32 @@
+[
+	{
+		"id":"1",
+	    "name":"Magellan Pro ISR",
+	    "description":"Mobile Robot",
+	    "features":"Laser scanner, RF link, CCD camera",
+	    "type":"robot",
+	    "quantity":"1",
+	    "manufacturer":"Magellan",
+	    "photoUrl":"5.jpg"
+	},
+	{
+		"id":"2",
+	    "name":"K-Team Khepera",
+	    "description":"Mobile Robot",
+	    "features":"Eletronic compass, INS, Framegrabbers, Wifi cameras",
+	    "type":"robot",
+	    "quantity":"1",
+	    "manufacturer":"K-Team Corporation",
+	    "photoUrl":""
+	},
+	{
+		"id":"3",
+	    "name":"e-Puck",
+	    "description":"The e-puck mini mobile robot was developed for teaching purposes by the designers of the successful Khepera robot. The e-puck hardware and software is fully open source, providing low level access to every electronic device and offering unlimited extension possibilities.",
+	    "features":"Battery, Processor, 2 stepper motors, 8 infra-red sensors, Camera, 3 omni-directional microphones, 3D accelerometer, 9 LEDs, Speaker, 16 position rotating switch, Bluetooth for robot-computer and robot-robot wireless communication, Remote Control e Expansion bus.",
+	    "type":"robot",
+	    "quantity":"10",
+	    "manufacturer":"by Roderich Gross at the University of Sheffield",
+	    "photoUrl":"6.jpg"
+	}
+]
